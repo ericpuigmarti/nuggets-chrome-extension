@@ -1,5 +1,6 @@
-FreshBooks Research Nuggets - Airtable Chrome Extension
+FreshBooks Research Nuggets 
 ==========
+## (an Airtable Chrome Extension) ##
 
 This extension allows FreshBookers to add "Research Nuggets" to Airtable from anywhere on the web.
 
@@ -17,11 +18,9 @@ Installing Unpacked Extension
 Features / Description
 -----
 
-- Deep integration with Twitter.com, Facebook.com, YouTUBE.com, Instagram and Topsy which adds a Storify action link to all tweets, posts, videos, images.
-- Rich context menu - right-click and create stories from anywhere on the web.
-- Select text and right-click the selected text to quote the text in your story.
-- Right-click links to Storify the linked page.
-
+- Click the *sparkle* chrome extension icon to open the Nugget entry form. 
+- Add nugget criteria as needed to submit your nugget.
+- Send it off to the interwebs, yo!
 
 Issues
 -----
@@ -32,9 +31,9 @@ Or send us a message in the `#nuggets` FreshBooks Slack channel.
 Contributing
 -----
 
-Fork at it.
+Fork it, yo
 
 ## Deploying
 (for FreshBooks employees only)
-* Update the new Zip file 
+* Update the new Zip file
 * Republish the app
