@@ -1,9 +1,7 @@
 FreshBooks Research Nuggets 
 ==========
-(an Airtable Chrome Extension)
 
-This extension allows FreshBookers to add "Research Nuggets" to Airtable from anywhere on the web.
-
+A Chrome extension that allows FreshBookers to add "Research Nuggets" to Airtable from anywhere on the web.
 
 Installing Unpacked Extension
 -----
@@ -34,5 +32,6 @@ Fork it, yo
 
 ## Deploying
 (for FreshBooks employees only)
+
 * Update the new Zip file
 * Republish the app
