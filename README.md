@@ -6,7 +6,7 @@ A Chrome extension that allows FreshBookers to add "Research Nuggets" to Airtabl
 Installing Unpacked Extension
 -----
 
-- If you downloaded the code, unzip the file.
+- `Unzip` the downloaded file.
 - In Google Chrome, Open (chrome://extensions/) or select the menu `Window > Extensions`.
 - Enable the developer mode at top right.
 - Click `Load unpacked extension...` and select the unzipped *Nuggets Chrome Extension* folder.
