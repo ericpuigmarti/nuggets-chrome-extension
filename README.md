@@ -25,8 +25,7 @@ Features / Description
 Issues
 -----
 
-There are no known issues at this time. Please let us know: [issue tracker](https://github.com/ericpuigmarti/nuggets-chrome-extension/issues).
-Or send us a message in the `#nuggets` FreshBooks Slack channel.
+There are no known issues at this time. Please let us know: [issue tracker](https://github.com/ericpuigmarti/nuggets-chrome-extension/issues). *Or* `send us a message` in the `#nuggets` FreshBooks Slack channel.
 
 Contributing
 -----
