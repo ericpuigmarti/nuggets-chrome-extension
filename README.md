@@ -17,8 +17,8 @@ Features / Description
 -----
 
 - Click the *sparkle* chrome extension icon to open the Nugget entry form. 
-- Add nugget criteria as needed to submit your nugget.
-- Send it off to the interwebs, yo!
+- Add nugget criteria as needed `>` then submit your nugget.
+- Send it off to the interwebs!
 
 Issues
 -----
