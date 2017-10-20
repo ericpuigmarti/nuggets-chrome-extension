@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+
+  "name": "FreshBooks UX Research Nuggets",
+  "description": "This extension allows FreshBookers to add nuggets to Airtable from anywhere on the web.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "sparkle.png",
+    "default_popup": "popup.html",
+    "default_title": "Add Research Nugget!"
+  },
+
+  "icons": { 
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png" 
+  },
+  
+  "permissions": [
+    "activeTab",
+    "storage",
+    "cookies"
+  ]
+}
